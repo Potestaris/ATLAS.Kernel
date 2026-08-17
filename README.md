@@ -1,3 +1,4 @@
+# DEPRECATED
 # KUKULCAN.Kernel
 
 KUKULCAN.Kernel is the cross-cutting core of the "Kukulcán Software Design" application ecosystem.
